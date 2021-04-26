@@ -1,0 +1,2 @@
+# wrand
+Golang weighted random
