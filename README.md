@@ -1,5 +1,7 @@
 # WRAND
 
+[![Go](https://github.com/sergonie/wrand/actions/workflows/go.yml/badge.svg?branch=master)](https://github.com/sergonie/wrand/actions/workflows/go.yml)
+
 Lightweight golang library for obtaining a weighted random item.
 
 ## Installation
